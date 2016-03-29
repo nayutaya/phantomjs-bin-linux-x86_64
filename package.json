@@ -1,0 +1,23 @@
+{
+  "name": "phantomjs-bin-linux-x86_64",
+  "description": "PhantomJS binary npm package for Linux(x86_64). Unofficial.",
+  "version": "2.1.1",
+  "author": "Yuya Kato (Nayutaya Inc.)",
+  "bugs": {
+    "url": "https://github.com/nayutaya/phantomjs-bin-linux-x86_64/issues"
+  },
+  "homepage": "https://github.com/nayutaya/phantomjs-bin-linux-x86_64#readme",
+  "keywords": [
+    "binary",
+    "phantomjs"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayutaya/phantomjs-bin-linux-x86_64.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
